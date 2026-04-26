@@ -1,4 +1,3 @@
 return {
-	'IogaMaster/neocord',
-	event = "VeryLazy",
+	"vyfor/cord.nvim",
 }
