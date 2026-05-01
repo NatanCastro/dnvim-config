@@ -11,7 +11,5 @@ vim.keymap.set("n", "<C-u>", "<C-u>zz")
 vim.keymap.set("n", "n", "nzzzv")
 vim.keymap.set("n", "N", "Nzzzv")
 
-vim.keymap.set("n", "<leader>a", '<cmd>lua require("harpoon.mark").add_file()<CR>')
-vim.keymap.set("n", "<leader>l", '<cmd>lua require("harpoon.ui").toggle_quick_menu()<CR>')
 vim.keymap.set("n", "<leader>g", "<cmd>Git<CR>")
 vim.keymap.set("n", "<leader>e", "<cmd>Neotree toggle<CR>")
