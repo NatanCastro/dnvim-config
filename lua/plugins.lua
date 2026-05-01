@@ -33,6 +33,8 @@ require("lazy").setup({
 	require("dnvim.plugins.discord"),
 	require("dnvim.plugins.treesitter"),
 	require("dnvim.plugins.conform"),
+	require("dnvim.plugins.harpoon"),
+	require("dnvim.plugins.neorg"),
 })
 
 -- vim.g.vimtex_view_method = "zathura"
